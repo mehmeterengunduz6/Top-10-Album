@@ -17,7 +17,8 @@ samples, guidance on mobile development, and a full API reference.
 
 FIGMA DESIGN FILE : https://www.figma.com/community/file/978696246949594744/Top-10-Albums
 
-![mock-up-1](https://user-images.githubusercontent.com/70098566/117979109-3c3cec00-b33b-11eb-87aa-d7acf19e00fc.png)
-![mock-up-2](https://user-images.githubusercontent.com/70098566/117979122-4101a000-b33b-11eb-86f7-45e31281dadc.png)
-![mock-up-3](https://user-images.githubusercontent.com/70098566/117979135-452dbd80-b33b-11eb-83bf-85d152bc0142.png)
-![mock-up-4](https://user-images.githubusercontent.com/70098566/117979165-4c54cb80-b33b-11eb-8f17-dc9893412099.png)
+![Desktop - 1](https://user-images.githubusercontent.com/70098566/119379693-78236a00-bcc8-11eb-975c-166a9a0a033b.png)
+![Desktop - 2](https://user-images.githubusercontent.com/70098566/119379704-7b1e5a80-bcc8-11eb-868b-129f6f53615d.png)
+![Desktop - 3](https://user-images.githubusercontent.com/70098566/119379708-7ce81e00-bcc8-11eb-98c9-bf87596ad5ad.png)
+![Desktop - 4](https://user-images.githubusercontent.com/70098566/119379716-7eb1e180-bcc8-11eb-97b5-6804b566fb91.png)
+
