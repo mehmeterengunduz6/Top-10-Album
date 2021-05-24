@@ -15,6 +15,8 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+FIGMA DESIGN FILE : https://www.figma.com/community/file/978696246949594744/Top-10-Albums
+
 ![mock-up-1](https://user-images.githubusercontent.com/70098566/117979109-3c3cec00-b33b-11eb-87aa-d7acf19e00fc.png)
 ![mock-up-2](https://user-images.githubusercontent.com/70098566/117979122-4101a000-b33b-11eb-86f7-45e31281dadc.png)
 ![mock-up-3](https://user-images.githubusercontent.com/70098566/117979135-452dbd80-b33b-11eb-83bf-85d152bc0142.png)
